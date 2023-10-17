@@ -1,0 +1,24 @@
+#animal{
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    color: #333;
+}
+
+
+
+button {
+    background-color: #68be17;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056a7;
+}
+ 
